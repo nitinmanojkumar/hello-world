@@ -1,0 +1,1 @@
+docker run -d -p 8090:8080 --name tomcatcontainer --network springboot-mysql nitinmanojkumar/tomcat-hello-world-image:latest

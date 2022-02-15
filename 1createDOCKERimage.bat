@@ -1,0 +1,1 @@
+docker build -t nitinmanojkumar/tomcat-hello-world-image:latest .

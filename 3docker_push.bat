@@ -1,0 +1,1 @@
+docker push nitinmanojkumar/tomcat-hello-world-image:latest
